@@ -11,6 +11,7 @@
 **git commit -m "some commit" - use this command to commit changes in files**</br>
 **git push - use this command to push files to the repository**</br>
 
+
 *NB:*</br>
 **git config --global user.name "John Doe example" - enter your name**</br>
 **git config --global user.email johndoe@example.com - enter your email address**</br>
