@@ -10,7 +10,7 @@ public class Main3 {
         num = scn.nextFloat();
         System.out.println("Please enter second number: ");
         num2 = scn.nextFloat();
-        result = num + num2;
+        result = num - num2;
         System.out.print("Sum of two numbers is: " + result);
     }
 }
