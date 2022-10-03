@@ -16,5 +16,10 @@ public class Main6 {
             default:
                 System.out.print("We need to work!");
         }
+        for(int i = 0; i<10;i++){
+
+        }
     }
+
+
 }
