@@ -1,6 +1,6 @@
 package com.company;
 
-public class Java10 {
+public class Main10 {
     public static void main(String[] args) {
 //        boolean isTrue = true;
 //        int i = 0;
