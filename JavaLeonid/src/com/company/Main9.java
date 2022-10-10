@@ -1,5 +1,6 @@
 package com.company;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main9 {
@@ -38,6 +39,7 @@ public class Main9 {
               System.out.println(result);
               break;
       }
+        System.out.println("Hello world");
 
     }
 }
