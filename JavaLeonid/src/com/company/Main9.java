@@ -40,6 +40,7 @@ public class Main9 {
               break;
       }
         System.out.println("Hello world");
+        System.out.println("Hello world");
 
     }
 }
