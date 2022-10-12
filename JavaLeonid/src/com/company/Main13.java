@@ -1,12 +1,16 @@
 package com.company;
 
-import java.util.Arrays;
-
 public class Main13 {
     public static void main(String[] args) {
-        int array[] = new int[] {1,2,3,4,5,6,7,8,9,10,9,8,8,8,9,10};
-        System.out.println(Arrays.toString(array));
-        int array2[] = {1,2,3,4,5,6};
-        System.out.println(array2[5]);
+        int num1, num2, result;
+        num1 = 0;
+        num2 = 1;
+        System.out.print(num1 + " " + num2 + " ");
+        for(int i = 0; i<10;i++){
+            result = num1 + num2;
+            System.out.print(result + " ");
+            num1 = num2;
+            num2 = result;
+        }
     }
 }
