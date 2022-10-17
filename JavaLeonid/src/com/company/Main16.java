@@ -10,7 +10,7 @@ public class Main16 {
         System.out.println("Please enter length of an array: ");
         int length = scn.nextInt();
         numbers = new int[length];
-        for(int i =0; i< numbers.length; i++){
+        for(int i = 0; i< numbers.length; i++){
             System.out.print("numbers[" + i + "] = ");
             numbers[i] = scn.nextInt();
         }
