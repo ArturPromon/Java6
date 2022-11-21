@@ -15,7 +15,6 @@ public class Reader {
                 String[] parts = line.split(" ");
                 System.out.println(Arrays.toString(parts));
             }
-
         }catch (Exception e){
             System.out.println(e);
         }
